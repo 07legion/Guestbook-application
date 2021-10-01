@@ -1,4 +1,4 @@
-# Guestbook app using weebapp2 and GAE
+# Guestbook app using webapp2 and GAE
 
 Functionalities:
 - CRUD
